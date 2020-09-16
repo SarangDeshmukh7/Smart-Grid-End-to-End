@@ -13,8 +13,11 @@ src = "https://www.electricaltechnology.org/wp-content/uploads/2015/05/What-does
 
 ### Table of content
 
-(Images)[https://github.com/SarangDeshmukh7/Smart-Grid-End-to-End/tree/master/Images] = Images from web app
-
+[Images](https://github.com/SarangDeshmukh7/Smart-Grid-End-to-End/tree/master/Images) = Screenshot of web app
+[Static](https://github.com/SarangDeshmukh7/Smart-Grid-End-to-End/tree/master/Static) = Images used in web
+[Templates](https://github.com/SarangDeshmukh7/Smart-Grid-End-to-End/tree/master/templates) = HTML files
+[Training](https://github.com/SarangDeshmukh7/Smart-Grid-End-to-End/blob/master/Training.ipynb) = Random Forrest Model Training
+[Model](https://github.com/SarangDeshmukh7/Smart-Grid-End-to-End/blob/master/Model.py) = Model deployment using flask
 
 ### How to run
 - In command prompt first fetch the location of main folder using (cd) command and then type Python Model.py
