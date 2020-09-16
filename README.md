@@ -11,6 +11,10 @@ demand trends.
 src = "https://www.electricaltechnology.org/wp-content/uploads/2015/05/What-does-a-Smart-Grid-do.jpg"/>
 
 
+### Table of content
+
+(Images)[https://github.com/SarangDeshmukh7/Smart-Grid-End-to-End/tree/master/Images] = Images from web app
+
 
 ### How to run
 - In command prompt first fetch the location of main folder using (cd) command and then type Python Model.py
