@@ -20,4 +20,4 @@ src = "https://www.electricaltechnology.org/wp-content/uploads/2015/05/What-does
 - [Model](https://github.com/SarangDeshmukh7/Smart-Grid-End-to-End/blob/master/Model.py) = Model deployment using flask
 
 ### How to run
-- In command prompt first fetch the location of main folder using (cd) command and then type Python Model.py
+- <code>In command prompt first fetch the location of main folder using (cd) command and then type Python Model.py</code>
