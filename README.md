@@ -7,9 +7,6 @@ energy delivery network that will be able to assess the state of the grid in rea
 operation. A key component of an efficient Smart Grid operation will be the accurate prediction of future supply and
 demand trends.
 
-<img
-src = "https://www.electricaltechnology.org/wp-content/uploads/2015/05/What-does-a-Smart-Grid-do.jpg"/>
-
 
 ### Table of content
 
