@@ -18,7 +18,7 @@ demand trends.
 ### How to run
 - <code>In command prompt first fetch the location of main folder using (cd) command and then type Python Model.py</code>
 
-### GUI 
+# GUI 
 
 ## Login Page
 <img src = "https://user-images.githubusercontent.com/66946910/98669999-0ca32c00-2378-11eb-84c0-f36592e2285a.png"/>
