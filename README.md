@@ -31,5 +31,5 @@ demand trends.
 
 
 
-### How to run
+# How to run
 - <code>In command prompt first fetch the location of main folder using (cd) command and then type Python Model.py</code>
