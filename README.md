@@ -15,8 +15,8 @@ demand trends.
 - [Training](https://github.com/SarangDeshmukh7/Smart-Grid-End-to-End/blob/master/Training.ipynb) = Random Forrest Model Training
 - [Model](https://github.com/SarangDeshmukh7/Smart-Grid-End-to-End/blob/master/Model.py) = Model deployment using flask
 
-### How to run
-- <code>In command prompt first fetch the location of main folder using (cd) command and then type Python Model.py</code>
+
+
 
 # GUI 
 
@@ -31,3 +31,5 @@ demand trends.
 
 
 
+### How to run
+- <code>In command prompt first fetch the location of main folder using (cd) command and then type Python Model.py</code>
