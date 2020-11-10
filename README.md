@@ -20,13 +20,13 @@ demand trends.
 
 ### GUI 
 
-#### Login Page
+## Login Page
 <img src = "https://user-images.githubusercontent.com/66946910/98669999-0ca32c00-2378-11eb-84c0-f36592e2285a.png"/>
 
-#### Input Page
+## Input Page
 <img src = "https://user-images.githubusercontent.com/66946910/98670005-0e6cef80-2378-11eb-9699-05b1717ec0ea.png"/>
 
-#### Output Page
+## Output Page
 <img src = "https://user-images.githubusercontent.com/66946910/98670011-0f9e1c80-2378-11eb-9c98-723685e3b9b9.png"/>
 
 
